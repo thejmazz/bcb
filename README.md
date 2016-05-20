@@ -16,10 +16,14 @@
 ## Databases
 
 - [KEGG: Kyoto Encyclopedia of Genes and Genomes](http://www.genome.jp/kegg/)
+- [dbSNP](http://www.ncbi.nlm.nih.gov/SNP/)
+- [SGD](http://www.yeastgenome.org/)
+- [PDB](http://www.rcsb.org/pdb/home/home.do)
 
 ## Ontologies
 
 - [EFO](http://www.ebi.ac.uk/efo/)
+- [GO](http://geneontology.org/)
 
 ## Tutorials
 - [vcf](https://wikis.utexas.edu/display/bioiteam/Variant+calling+tutorial)
@@ -39,3 +43,7 @@
 ## Graph Theory
 
 - [Cluster and Visualize a Subset of Your Neo4j Database Using RNeo4j, igraph, and Alchemy.js.](http://nicolewhite.github.io/2014/07/24/visualize-subset-neo4j-alchemy.html)
+
+## Containers
+
+- [docker-bio-linux8](https://hub.docker.com/r/gawbul/docker-bio-linux8/)
