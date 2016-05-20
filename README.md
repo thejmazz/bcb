@@ -1,5 +1,18 @@
 # Bioinformatics and Computational Biology
 
+## Alignment
+
+- [bwa](https://github.com/lh3/bwa)
+- SRA toolkit
+  * [ngs](http://github.com/ncbi/ngs)
+  * [ncbi-vdb](http://github.com/ncbi/ncbi-vdb)
+  * [sra-tools](http://github.com/ncbi/sra-tools)
+- [samtools](https://github.com/samtools/samtools)
+
+## Sequences
+
+- [seqtk](https://github.com/lh3/seqtk)
+
 ## Databases
 
 - [KEGG: Kyoto Encyclopedia of Genes and Genomes](http://www.genome.jp/kegg/)
