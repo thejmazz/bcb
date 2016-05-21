@@ -25,7 +25,7 @@
 - [FASTA](https://en.wikipedia.org/wiki/FASTA)
 - [FASTQ](https://en.wikipedia.org/wiki/FASTQ_format)
 - [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) (variant call format)
-- [SAM](https://en.wikipedia.org/wiki/SAM_(file_format) (sequence alignment map) and BAM (binary alignment map)
+- [SAM](https://en.wikipedia.org/wiki/SAM_(file_format)) (sequence alignment map) and BAM (binary alignment map)
 
 ## Ontologies
 
