@@ -20,13 +20,20 @@
 - [SGD](http://www.yeastgenome.org/)
 - [PDB](http://www.rcsb.org/pdb/home/home.do)
 
+## File Types
+
+- [FASTA](https://en.wikipedia.org/wiki/FASTA)
+- [FASTQ](https://en.wikipedia.org/wiki/FASTQ_format)
+- [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) (variant call format)
+- [SAM](https://en.wikipedia.org/wiki/SAM_(file_format) (sequence alignment map) and BAM (binary alignment map)
+
 ## Ontologies
 
 - [EFO](http://www.ebi.ac.uk/efo/)
-- [GO](http://geneontology.org/)
+- [GO](http://geneontology.org/) (Gene Ontology)
 
 ## Tutorials
-- [vcf](https://wikis.utexas.edu/display/bioiteam/Variant+calling+tutorial)
+- [Variant calling tutorial](https://wikis.utexas.edu/display/bioiteam/Variant+calling+tutorial)
 - [griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)
 
 ## RNASeq
@@ -35,6 +42,10 @@
 
 ## Pipeline Frameworks
 - [nextflow](http://www.nextflow.io/)
+
+## Algorithms
+
+- [BWT](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) (Burrows-Wheeler transform)
 
 ## Other Things
 - [nucleotides](http://nucleotid.es/)
