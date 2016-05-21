@@ -22,6 +22,7 @@
 
 ## File Types
 
+- [Biological data file formats](https://en.wikipedia.org/wiki/Biological_data#Data_File_Formats)
 - [FASTA](https://en.wikipedia.org/wiki/FASTA)
 - [FASTQ](https://en.wikipedia.org/wiki/FASTQ_format)
 - [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) (variant call format)
